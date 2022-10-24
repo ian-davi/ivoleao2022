@@ -6,6 +6,7 @@ body {
     background: #cccccc
 }
 
-strong {
+em strong {
+
     color: red;
 }
