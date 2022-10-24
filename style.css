@@ -5,3 +5,7 @@ p {
 body {
     background: #cccccc
 }
+
+strong {
+    color: red;
+}
