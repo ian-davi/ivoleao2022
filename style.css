@@ -20,6 +20,31 @@ nav li {
 
 nav a {
     text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: hsl(180, 100%, 50%);
+    text-decoration: underline;
+}
+
+/*HOME*/
+
+#alura {
+    width:850px;
+}
+
+.principal {
+    background: #ff0000;
+    padding: 30px; 
+}
+
+.titulo-princial {
+    text-align: center;
+    padding-left: 20px;
 }
 h1 {
     text-align: center
