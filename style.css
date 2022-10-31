@@ -18,15 +18,12 @@ header {
     width: 740px;
     margin: 0 auto;
 }
-/*NAVEGAÇÃO ENTRE PAGINAS*/
-.navegação {
-    padding: 20px 0;
-}
 
-.caixa {
+nav {
     position: relative;
-    width: 300px;
-    margin: 0 auto;
+    top: 130px;
+    right: 0;
+
 }
 
 nav li {
@@ -47,19 +44,15 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/*HOME*/ n
-
-#alura {
-    width:850px;
+.protudos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
 }
 
-.principal {
-    background: #ff0000;
-    padding: 30px; 
+.protudos li {
+    display: inline-block2;
 }
-
-
-
 
 .titulo-princial {
     text-align: center;
