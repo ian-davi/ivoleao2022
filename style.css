@@ -1,7 +1,23 @@
-body {
-    background: #000000
+.logo {
+    width: 150px;
+    height: 150px;
 }
 
+.fotos-produtos {
+    width: 150px;
+    height: 150px;
+}
+
+header {
+    background: #000000;
+    padding:20px 0 ;
+}
+
+.caixa {
+    position: relative;
+    width: 740px;
+    margin: 0 auto;
+}
 /*NAVEGAÇÃO ENTRE PAGINAS*/
 .navegação {
     padding: 20px 0;
@@ -31,7 +47,7 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/*HOME*/
+/*HOME*/ n
 
 #alura {
     width:850px;
@@ -41,6 +57,9 @@ nav a:hover {
     background: #ff0000;
     padding: 30px; 
 }
+
+
+
 
 .titulo-princial {
     text-align: center;
