@@ -51,7 +51,37 @@ nav a:hover {
 }
 
 .protudos li {
-    display: inline-block2;
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+
+.protudos li:hover {
+    border-color: blue;
+}
+
+.protudos li:active {
+    border-color: aquamarine;
+}
+
+.protudos li:hover h2 {
+    font-size: 30px;
+}
+
+.protudos h2 {
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.protudos-descrição {
+    font-size: 18px;
 }
 
 .titulo-princial {
