@@ -67,7 +67,7 @@ nav a:hover {
 }
 
 .produtos li:active {
-    border-color: aquamarine;
+    border-color: blue;
 }
 
 .produtos li:hover h2 {
@@ -90,7 +90,7 @@ nav a:hover {
   margin-top: 10px;
 }
 footer{
-    background: #000000;
+    background: #00000000;
     text-align:center;
 }
 copyright {
